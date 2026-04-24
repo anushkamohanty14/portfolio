@@ -100,10 +100,6 @@ export default function Projects() {
       <h1 style={{ ...S.hero, fontSize: 56, marginTop: 6 }}>
         Six things I've built <em style={{ color: '#d4a5c4' }}>on purpose</em>.
       </h1>
-      <div style={{ fontFamily: 'Inter, sans-serif', fontSize: 14, color: '#c9bdd4', marginTop: 16, maxWidth: 620, fontStyle: 'italic', lineHeight: 1.6 }}>
-        Sorted by recency. Hover for the one-line summary, click for the full story.{' '}
-        <span style={{ color: '#d4a5c4' }}>★</span> = the ones I'd talk about first in an interview.
-      </div>
       <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: '#6b2d5c', marginTop: 20, marginBottom: 24, letterSpacing: '0.05em', display: 'flex', gap: 24 }}>
         <span>▸ 6 ENTRIES</span>
         <span>▸ 2 PAPERS UNDER REVIEW</span>
